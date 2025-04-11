@@ -1,0 +1,3 @@
+Great work on the auto stitcher and lots of good image examples.
+Taking off a few points because your auto-cropping/re-centering is not working correctly.
+Grade: A/A-
