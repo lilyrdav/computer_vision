@@ -1,0 +1,8 @@
+The Obama/Biden image is an effective blend but quite disturbing because of the lack of alignment.
+For the Obama/Biden hybrid image, the effect is very diminished by the lack of alignment.
+I understand the alignment was produced by your "going further" face detection program
+but I would have preferred seeing some manually aligned images. With that said, the code
+for blending certainly seems correct and your explanations for the questions are broadly
+aligned with what I'm looking for.
+
+Grade: A/A-
