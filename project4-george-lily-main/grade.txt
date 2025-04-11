@@ -1,0 +1,7 @@
+Nice work, you two! I liked hearing about
+all of the things you tried to get the CNN
+working faster/better.
+
+Not sure why YOLOv8 didn't work on test set?
+
+Grade: A
